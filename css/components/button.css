@@ -1,0 +1,13 @@
+.btn-white {
+	background-color: #FFFFFF;
+	padding: 30px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	box-shadow: #494949 1px 0 10px;
+}
+
+a:hover {
+    color: rgba(20,20,20,1.00);
+}
